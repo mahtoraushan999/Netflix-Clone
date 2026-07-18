@@ -121,8 +121,8 @@ To get a local copy up and running follow these simple steps.
 <!-- CONTACT -->
 ## Contact
 
-Ioana Tiplea - ioanatiplea94@gmail.com  - [LinkedIn](https://www.linkedin.com/in/ioana-tiplea/)
+Ioana Tiplea - ioanatiplea94@gmail.com  - [LinkedIn](https://www.linkedin.com/in/raushan-kumar-6a1171382/)
 
-Project Link: [https://github.com/ioanat94/netflix](https://github.com/ioanat94/netflix)
+Project Link: [https://github.com/ioanat94/netflix](https://github.com/mahtoraushan999/Netflix-Clone)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
